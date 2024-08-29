@@ -1,1 +1,1 @@
-# Product_Retrieval_using_Visual-_Input
+# Product_Retrieval_using_visual_input
